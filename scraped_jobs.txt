@@ -1,0 +1,67 @@
+
+Job Title                                    Company                                           # of Matching Skills
+
+ 1. Junior Software Developer                    Empowered Networks Inc.                           6
+ 4. Jr. Data Scientist                           Searidge Technologies                             5
+ 5. Software Developer                           ENERCARE                                          5
+ 7. Junior Software Developer                    Kongsberg Geospatial                              4
+ 8. Software Application Developer               i-Sight                                           4
+ 9. Junior Software Developer                    Kongsberg Geospatial                              4
+10. Software Developer                           Acoustiguide - Tristan Interactive Inc.           4
+11. Developer, Support                           Shopify                                           4
+12. Software Developer, Crawling & Bots          Numerator                                         4
+13. Software Developer                           Acoustiguide - Tristan Interactive Inc.           4
+14. Software Developer                           Acoustiguide - Tristan Interactive Inc.           4
+15. Junior Software Developer                    Kongsberg Geospatial                              4
+17. Server Developer, Ottawa, Canada             GRAPHITE SOFTWARE CORPORATION                     4
+18. PHP Software Developer                       Spoonity                                          4
+19. mobile applications developer                Wengash                                           4
+20. Junior Software Developer                    Kongsberg Geospatial                              4
+21. Software Developer                           Acoustiguide - Tristan Interactive Inc.           4
+22. Security Software Developer                  BlackBerry                                        4
+23. Web Developer                                Agility PR Solutions                              4
+24. Front End Developer                          Agility PR Solutions                              4
+25. 2019-061 Software Developer - Streamline     Ross Video                                        3
+26. Software Developer                           Stanley Black & Decker                            3
+27. Software Developer                           CANADIAN HEALTH SYSTEMS                           3
+28. Junior Web Developer                         OPIN                                              3
+29. Full Stack Developer                         InitLive Inc.                                     3
+32. Computer Systems Developer                   Scouts Canada                                     3
+33. UI Software Developer                        Ericsson                                          3
+35. NEW! Software Developer – Co-Op              Evidence Partners                                 3
+36. Software Developer                           j2 Cloud Services                                 3
+37. Junior Software Engineer                     DRS Technologies                                  3
+39. Junior/Intermediate Platform Developer       Ciena                                             3
+41. Embedded Software Developer                  eSight Eyewear                                    3
+43. Agile Software Developer                     Tiree Consulting                                  3
+44. Transport Software Developer                 Huawei Canada                                     3
+45. Intern Web Developer                         OPIN                                              3
+46. Web Developer                                Irdeto                                            3
+47. Software Architect                           Inteloom Inc.                                     3
+49. Software Developer                           Lightship Security, Inc.                          2
+50. Software Developer                           Lightship Security, Inc.                          2
+51. Policy Analyst                               Government of Canada                              2
+52. Radio SW Developer                           Ericsson                                          2
+53. Software Developer                           Secure City Solutions                             2
+54. Software Developer                           Lightship Security, Inc.                          2
+55. System Software Developer                    Trend Micro                                       2
+56. 2019-054 FPGA Developer                      Lubbock Fine                                      2
+57. 2019-054 FPGA Developer                      Ross Video                                        2
+58. Software Developer                           Pleora Technologies Inc.                          2
+59. Learning Services Developer Co op            NOKIA                                             2
+60. Software Developer - Multimedia              BlackBerry                                        2
+61. Junior Web Developer                         Industrial Agency                                 2
+62. Software Developer                           Adobe                                             2
+63. Software Developer - Python                  CaseWare                                          2
+64. Software Developer - Multimedia              QNX Software Systems                              2
+65. C++ Developer                                MSi Corp.                                         2
+67. Full Stack UI Developer                      Superna                                           2
+68. Software Developer                           Lightship Security, Inc.                          2
+70. IT Software Developer                        Canadian Security Intelligence Service            1
+71. Content Strategy Intern - Summer 2019        Shopify                                           1
+74. IT Software Developer                        Canadian Security Intelligence Service            1
+76. Qlik Developer                               CGI Group, Inc.                                   1
+77. Intermediate Full Stack Developer            Quest Software                                    1
+78. IT Software Developer                        Canadian Security Intelligence Service            1
+79. IT Software Developer                        Canadian Security Intelligence Service            1
+81. Software Automation Test Specialist          VirtaMove Corp.                                   1
